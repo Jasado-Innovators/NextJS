@@ -26,7 +26,7 @@ const Profile = () => {
               height={260}
               style={{
                 width: "auto",
-                height: "auto",
+                height: "1000px",
               }}
             />
             <div className="absolute bottom-1 right-1 z-10 xsm:bottom-4 xsm:right-4">
